@@ -24,7 +24,7 @@ const Navigation = () => (
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
-        <Nav className="me-auto">
+        <Nav className="mr-auto">
           <Nav.Link href="#cartao">Cartão</Nav.Link>
           <Nav.Link href="#quemsomos">Quem Somos</Nav.Link>
           <Nav.Link href="#faq">FAQ</Nav.Link>
